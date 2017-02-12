@@ -1,0 +1,3 @@
+#!/bin/bash
+ifconfig | ag inet | ag broadcast | ruby -n -e 'puts $_.split[1]'
+
