@@ -3,8 +3,8 @@
 
 # First, create a file that lets you find your IP address from the command line.
 
-in: ~/username/bin create a file that looks like myip\n
-make it executable with chmod\n
+in: ~/username/bin create a file that looks like myip</br>
+make it executable with chmod</br>
 this will allow you to type in myip from the command line to see your ip address. Basically, talking across the network
 
 # Next we will talk a little bit about Server/Client
