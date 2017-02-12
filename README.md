@@ -42,4 +42,4 @@ socket.gets                             # same as reading from $stdin
 socket.close                            # disconnect
 ```
 ## Example HTTP Request
-# Here, we're going to format the strings we send in a format known as HTTP. When we connect to Google, we'll request a search for "ruby", this is what your browser sends and recieves if you click https://www.google.com/search?q=ruby.
+### Here, we're going to format the strings we send in a format known as HTTP. When we connect to Google, we'll request a search for "ruby", this is what your browser sends and recieves if you click https://www.google.com/search?q=ruby.
