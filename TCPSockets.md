@@ -14,7 +14,7 @@
 ```
 # Register your program to accept requests
 require 'socket'                        # code is in the standard library
-host = 'localhost'                      # serving from your computer
+host = your-ip                          # serving from your computer
 port = 3001                             # to allow multipl programs to serve content, they each get a number called a "port"
 server = TCPServer.new host, port       # make the server
 
